@@ -3,7 +3,6 @@
          "presupuestoTotal":{
            "string":["120000000"]
          }
-   }
   },
   "Piave": {
     "body": { "string": {} },
