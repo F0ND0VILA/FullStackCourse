@@ -1,9 +1,11 @@
 {
   "Post": {
-    "title": { "string": {} },
-    "comments": {
-      "hasMany": "Comment"
-    }
+    "Mts2":1313131,
+    "PresupuestoInicial" : "120000",
+    "PresupuestoTotal" : "120000000",
+    "Descripcion" : "Casa realizada con durlock, cuenta con aberturas de PVC primera calidad y aislamiento con tecnologia de Poliuretano expandido",
+    "DuraciónDeLaObra": "5 meses"
+}
   },
   "Comment": {
     "body": { "string": {} },
