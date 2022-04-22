@@ -1,18 +1,12 @@
 {
   "Post": {
-      "PiaveHome":{
-         "Mts2":1313131,
-         "PresupuestoInicial":{
-            "label":"Presupuesto inicial",
-            "value":"120000"
-         },
          "PresupuestoTotal":{
             "label":"Presupuesto total",
             "value":"120000000"
          },
-         "Descripcion":"Casa realizada con durlock, cuenta con aberturas de PVC primera calidad y aislamiento con tecnologia de Poliuretano expandido",
+         "Descripcion":{
+           value: "Casa realizada con durlock, cuenta con aberturas de PVC primera calidad y aislamiento con tecnologia de Poliuretano expandido"},
          "DuracionDeLaObra":"5 meses"
-      }
    }
   },
   "Comment": {
