@@ -1,12 +1,28 @@
 {
   "Home": {
-         "descripcion":{
-                        "loremWords": { "minLength": 5, "maxLength": 20 }
-         }
-  },
-  "Piave": {
-    "body": { "string": {} },
-    "home": {
-      "hasMany": "Home"
+    "title": {
+      "loremWords": {
+        "minLength": 5,
+        "maxLength": 20
+      }
+    },
+    "presupuestoInicial": {
+      "int": { "min": 999999 "max": 1000000 }
+    },
+    "presupuestoTotal": {
+      "int": { "min": 9999999 "max": 10000000}
     }
+    "mts": {
+      "int": { "min":1 "max": 100}
+    },
+    "descripcion": {
+       "loremParagraphs": {
+          "minLength": 10,
+          "maxLength": 100
+        }
+    },
+    "duracion": {
+      "int": { "min":3 "max": 12}
+    }
+  }
 }
