@@ -1,6 +1,8 @@
 {
   "Home": {
-         "presupuestoTotal":{"value":"120000000"},
+         "presupuestoTotal":{
+             "type": "string" ,
+           "value":"120000000"},
          "descripcion":{"value":"Casa realizada con durlock, cuenta con aberturas de PVC primera calidad y aislamiento con tecnologia de Poliuretano expandido"},
          "duracionDeLaObra":{"value":"5 meses"}
    }
